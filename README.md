@@ -26,7 +26,7 @@ Integração com a API da Vendemmia para sincronização de dados de produtos, e
 
 ### 1.2. Tecnologias Principais
 - Microsoft Visual Studio 2022
-- C# .NET 6.0
+- C# .NET 8.0
 - Hangfire (agendamento de jobs)
 - SQL Server (persistência)
 - Serilog (logs)
