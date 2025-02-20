@@ -1,6 +1,6 @@
 # Documentação Completa - Integração Vendemmia
-**Data de Criação:** 2025-02-20 12:29:30 UTC  
-**Autor:** leogr85
+**Data de Criação:** 2025-02-19  
+**Autor:** Leonardo Gomes Raimundo
 **Versão:** 1.0
 
 ## Sumário
