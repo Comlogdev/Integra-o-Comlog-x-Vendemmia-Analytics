@@ -136,7 +136,7 @@ CREATE TABLE ProcessingControl (
 #### Fase 1: Preparação e Setup (8 dias úteis)
 - **Primeira Etapa (5 dias)**
   - Configuração do ambiente
-  - Setup do projeto .NET 6
+  - Setup do projeto .NET 8
   - Configurações iniciais
 
 - **Segunda Etapa (3 dias)**
